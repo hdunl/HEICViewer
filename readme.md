@@ -25,3 +25,7 @@ This is a Python program that allows you to view and convert HEIC files to JPEG 
 2. Use the GUI interface to view the HEIC file
 3. Convert the HEIC file to JPEG or PNG format using the "Save as JPEG" or "Save as PNG" buttons
 4. Batch convert multiple HEIC files to JPEG and PNG formats using the "Batch Convert" button
+
+
+![image](https://github.com/hdunl/HEICViewer/assets/54483523/358e7202-e2a2-4269-8414-436264e13207)
+
