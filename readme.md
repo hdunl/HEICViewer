@@ -16,7 +16,7 @@ This is a Python program that allows you to view and convert HEIC files to JPEG 
 
 1. Clone the repository to your local machine
 2. Install the required dependencies using pip: `pip install tkinter pillow-heif`
-3. Run the program using Python: `python heic_viewer_converter.py`
+3. Run the program using Python: `python main.py`
 
 **Usage**
 ---------
